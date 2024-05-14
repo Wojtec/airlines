@@ -1,0 +1,19 @@
+{
+  "name": "airlines-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-fetch-mock": "^3.0.3"
+  }
+}
